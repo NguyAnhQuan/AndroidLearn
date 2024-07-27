@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FourCorners</string>
+    <string name="Title1">Text composable</string>
+    <string name="Title2">Image composable</string>
+    <string name="Title3">Row composable</string>
+    <string name="Title4">Colum composable</string>
+    <string name="Body1">Display text and follows the recommended Material Design guidelines.</string>
+    <string name="Body2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="Body3">A layout composable that its children in a horizontal sequence.</string>
+    <string name="Body4">A layout composable that places its children in a vartical sequence.</string>
 </resources>
